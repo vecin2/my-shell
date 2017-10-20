@@ -1,0 +1,1 @@
+/opt/verint/verint_projects/SPEN/FP3/my-shell/autocompletion/commands/autocomplete-refresh.sh

@@ -1,0 +1,1 @@
+/opt/verint/verint_projects/SPEN/FP3/my-shell/command-management/commands/create-command.sh

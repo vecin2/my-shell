@@ -1,0 +1,10 @@
+-new command
+ ' create folder if not exist
+ ' create file with bash header
+  create test folder if not exit
+  create test invoking command
+  create lib folder if not exit
+
+-make command available in auto complete
+
+-run command with ms
