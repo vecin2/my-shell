@@ -1,9 +1,29 @@
+set up Nerdtree
+  xdo not run on entry 
+  x create new file in current directory
+  x delete file
+  x select file in the right hand side
+  x zoom in and zoom out
+
+
+nerd tree with git plugin
+Changing files without asking for save
+mark files not save
+ask for savin before you exit
+
+tim ctrl e in command terminal to go to editor
+repeat.vim 
+drew neil screen casts
+Projection
+install comments
+instasll Scroll bar
+
 -new command
   create test folder if not exit
   create test invoking command
   create lib folder if not exit
 
 -make command available in auto complete
--change name commans-available to available-commands
+-change najùme commans-available to available-commands
 
 create-unit-test
